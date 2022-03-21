@@ -13,30 +13,35 @@ function App() {
             surname: 'Smith',
             salary: 500,
             increase: true,
+            id: 1,
         },
         {
             name: 'Alex',
             surname: 'Mask',
             salary: 1000,
             increase: false,
+            id: 2,
         },
         {
             name: 'George',
             surname: 'Shepard',
             salary: 1500,
             increase: true,
+            id: 3,
         },
         {
             name: 'Elona',
             surname: 'Sagerse',
             salary: 1750,
             increase: true,
+            id: 4,
         },
         {
             name: 'Ignat',
             surname: 'Callel',
             salary: 750,
             increase: false,
+            id: 5,
         },
     ];
 
